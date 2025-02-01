@@ -1,0 +1,12 @@
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\bin\Debug\PoolClubProject.exe.config
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\bin\Debug\PoolClubProject.exe
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\bin\Debug\PoolClubProject.pdb
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.csproj.AssemblyReference.cache
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.frmTableInfo.resources
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.Properties.Resources.resources
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.ucPoolTable.resources
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.csproj.GenerateResource.cache
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.csproj.CoreCompileInputs.cache
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.exe
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.pdb
+D:\Programmer\A-PROGRAMMING ADVICES\cour 20 - C# Level 2\PoolClubProject\obj\Debug\PoolClubProject.Frm8PoolTables.resources
